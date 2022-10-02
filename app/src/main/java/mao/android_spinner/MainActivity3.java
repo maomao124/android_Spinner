@@ -18,7 +18,7 @@ public class MainActivity3 extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
 
-        Spinner spinner = findViewById(R.id.Spinner1);
+        Spinner spinner = findViewById(R.id.Spinner2);
 
         ArrayAdapter<String> arrayAdapter = new ArrayAdapter<>(this, R.layout.item_select,
                 new String[]
