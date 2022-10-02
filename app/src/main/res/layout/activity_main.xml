@@ -28,7 +28,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAllCaps="false"
-            android:text="页面1" />
+            android:text="dropdown 简单适配器" />
+
+    <Button
+            android:id="@+id/Button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="dialog 简单适配器" />
 
 
 </LinearLayout>
