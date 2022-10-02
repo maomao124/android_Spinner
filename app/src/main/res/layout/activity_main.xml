@@ -13,18 +13,21 @@
             android:id="@+id/Button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="dropdown" />
+            android:text="dropdown"
+            android:textAllCaps="false"/>
 
     <Button
             android:id="@+id/Button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textAllCaps="false"
             android:text="dialog" />
 
     <Button
             android:id="@+id/Button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textAllCaps="false"
             android:text="页面1" />
 
 
